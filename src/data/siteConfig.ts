@@ -41,9 +41,8 @@ export const siteConfig = {
 
     imagesOG: {
         en: "/ogLogo.png",
-        ru: "/ogLogo.png",
-        es: "/ogLogo.png",
-        fr: "/ogLogo.png",
+        hy: "/ogLogo.png",
+        ru: "/ogLogo.png"
     },
 
     icons: {

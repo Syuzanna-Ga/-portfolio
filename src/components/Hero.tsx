@@ -41,7 +41,7 @@ export function Hero() {
                         }}
                     >
                         <Image
-                            src={t.photoUrl}
+                            src={t.avatar}
                             alt="Personal photo"
                             width={160}
                             height={160}

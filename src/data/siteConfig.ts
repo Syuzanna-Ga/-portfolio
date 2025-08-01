@@ -26,7 +26,7 @@ export const siteConfig = {
     defaultTheme: "dark" as "light" | "dark",
 
     name: {
-        en: "Suzanna Gasparyan",
+        en: "Syuzanna Gasparyan",
         hy: "Սյուզաննա Գասպարյան",
         ru: "Сюзанна Гаспарян",
     },
@@ -77,8 +77,9 @@ export const siteConfig = {
     },
 
     hero: {
+        avatar:'/avatar.jpg',
         greeting: {
-            en: `Hi, I'm ${"Suzanna Gasparyan"}`,
+            en: `Hi, I'm ${"Syuzanna Gasparyan"}`,
             hy: `Բարև, ես ${"Սյուզաննա Գասպարյանն"} եմ`,
             ru: `Привет, я ${"Сюзанна Гаспарян"}`,
         },
